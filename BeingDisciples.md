@@ -1,4 +1,12 @@
-## Chapter 1: Being Disciples
+# Being Disciples by Rowan Williams
+
+## A Four Week Study
+
+The goal of this four-week study on *Being Disciples* by Rowan Williams is to provide a safe and welcoming space for participants to explore the deep and practical dimensions of Christian discipleship. Through guided discussions on key themes such as forgiveness, holiness, and following Jesus, this study seeks to foster an environment where group members feel comfortable sharing their personal experiences, questions, and reflections. By encouraging honest conversations and mutual support, this study aims to help participants not only grow in their understanding of what it means to follow Christ, but also connect their spiritual lives to their everyday realities in meaningful and transformative ways.
+
+## Discussion Questions
+
+### Chapter 1: Being Disciples
 
 1. The poet David Jones wrote “It is easy to miss him at the turn of a civilization”. In a society that has abdicated “being” to a presence to technology, is it possible to be a disciple as “ a state of being”?
 
@@ -13,7 +21,7 @@ Has the role of what it means to be a disciple changed- Have we moved from expec
 5. Does discipleship, by its nature and Rowan’s definition, call us to reorganize how we see the world? We live in a global community where information is disseminated constantly and unvetted- most of it seemingly supporting various silo positions and instilling fear into the landscape. How do we grow in faith and understanding, based on Rowan’s principles of discipleship, and still be conscious of our secular world, and at the same time, not be consumed by it. 
 6. How do we establish the power of tradition through stories, by what we have been, by who we are?
 
-## Chapter 3: Forgiveness
+### Chapter 3: Forgiveness
 
 1. Jesus compares giving bread versus a stone to illustrate God’s generosity (Matt. 7:7-9). Can you share a time in your life when you felt God provided for you in an unexpected way? How did that experience shape your understanding of forgiveness?
 2. What are some personal obstacles you’ve faced when trying to forgive someone? How do you see these challenges addressed in the teachings shared in this chapter?
@@ -21,7 +29,7 @@ Has the role of what it means to be a disciple changed- Have we moved from expec
 4. Rowan Williams offers Jesus as the ultimate model of forgiveness. How does reflecting on His example encourage or challenge you in your own relationships?
 5. Have you ever witnessed or experienced a relationship restored through forgiveness? What role did faith or prayer play in that restoration?
 
-## Chapter 4: Faithfulness
+### Chapter 4: Faithfulness
 
 1. Faithfulness often requires commitment and trust. Can you share a story of a relationship—whether with God, family, or friends—where faithfulness was especially significant?
 2. What are some of the most difficult areas in your life where you’ve had to remain faithful? How do you think this connects to the ideas presented in chapter four?
@@ -29,7 +37,7 @@ Has the role of what it means to be a disciple changed- Have we moved from expec
 4. Reflecting on the concept of God’s unwavering faithfulness, how does that assurance influence your daily walk with Christ?
 5. Can you share an example of someone in your life who lived out their faith in a way that inspired you? How did their faithfulness impact you?
 
-## Chapter 6: Life in the Spirit
+### Chapter 6: Life in the Spirit
 
 1. Rowan Williams talks about hearing our name spoken by God and asking Him, *“Tell me who I really am.”* Have you ever experienced a moment where you felt God reveal something about your identity or purpose? What was it like?
 
@@ -63,7 +71,7 @@ Has the role of what it means to be a disciple changed- Have we moved from expec
 
 12. If joy is a marker of life in the Spirit, where have you seen this joy reflected in your daily interactions or in our group? How can we encourage each other to live in that joy more consistently?
 
-##  Reflection
+### Wrap Up/Reflection
 
 1. Looking back on this study, what is one insight or practice about being a Disciple, you want to carry forward with you, and how will you put it into action?
 
